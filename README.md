@@ -24,13 +24,8 @@ There is a getting started video [here](https://beckhoff-au.teachable.com/course
 ![image](./docs/images/Screenshot.png)
 
 ## Versions
-<<<<<<< HEAD
 * TcXaeShell 3.1.4024.32
 * TE2000 1.12.756.1
-=======
-* TcXaeShell 3.1.4024.22
-* TE2000 1.12.750.1
->>>>>>> ec4c88037e1453fdfcf71a68ee88cf12cc0e06a5
 
 ## Need more help?
 Please visit http://beckhoff.com/ for further guides
